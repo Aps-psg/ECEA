@@ -1,0 +1,766 @@
+<?php include 'nav.php';?> 
+                
+       <!-- Portfolio Start -->
+        <div class="portfolio" id="portfolio">
+            <div class="container">
+                <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+                    <p>2K20 - 2K21</p>
+                    <h2>Gallery</h2>
+                </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                  
+                    <div  id="id0">
+                        <ul id="portfolio-filter">
+                            <!-- <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/gallery2k20_front.jpg" alt="Image">
+                                </div>
+                                <div class="card-body text-center">
+                                  <a class="btn" href="img/decibels203.jpg" data-lightbox="portfolio">View all photos</a>
+                                  <a class="btn1" href="img/acumen.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/decibels201.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/codex1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/decibels202.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/decibels204.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techzest1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/neopytes4.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/neopytes1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/neopytes2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/neopytes3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/neopytes5.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mock1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mock2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mock3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techwiz1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techwiz2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techwiz3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/impulse1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/impulse2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/impulse3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/impulse4.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/spectre1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/spectre2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/spectre3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/electrocuriex1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/electrocuriex2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/electrocuriex3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mindsweeper1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mindsweeper2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mindsweeper3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mindsweeper4.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/mindsweeper5.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/fdc1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/fdc2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/fdc3.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techn'o'ration1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/techn'o'ration2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/conclave2k211.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/conclave2k212.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/conclave2k213.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/kriyacodefeast1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/kriyacodefeast1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/kriyaworkshop1.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/kriyaworkshop2.jpg" data-lightbox="portfolio"></a>
+                                  <a class="btn1" href="img/kriyaworkshop3.jpg" data-lightbox="portfolio"></a>
+
+                                </div>
+                            </div> -->
+                        </ul>
+                    </div>
+                <div class="col-lg-4" id="id1">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/decibels2k20.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id2" onclick = "on()" style= "margin-right: 0px;" >DECIBELS 20</a>
+                                <div id="id3"  style="display: none;" style= "position: center;">
+                                <h6>DECIBELS 20</h6>
+                                <a class="btn"  onclick = "off()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div> 
+                    <div class="col-lg-4" id="id4" style="display:none">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/acumen_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>DECIBELS-ACUMEN</h6>
+                                <a class="btn" href="img/decibels203.jpg" data-lightbox="portfolio1">View photo</a>
+                                <a class="btn1" href="img/acumen.jpg" data-lightbox="portfolio1"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id5" style="display:none">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/codex_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>DECIBELS-CODEX</h6>
+                                <a class="btn" href="img/decibels201.jpg" data-lightbox="portfolio2_1">View photo</a>
+                                <a class="btn1" href="img/codex1.jpg" data-lightbox="portfolio2_1"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id42" style="display:none">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/techzest_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>DECIBELS-TECHZEST</h6>
+                                <a class="btn" href="img/decibels202.jpg" data-lightbox="portfolio2">View photo</a>
+                                <a class="btn1" href="img/techzest1.jpg" data-lightbox="portfolio2"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    
+
+                <div class="col-lg-4" id="id6">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/neophytes_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id7" onclick = "on1()" style= "margin-right: 0px;" >NEOPHYTES</a>
+                                <div id="id8"  style="display: none;" style= "position: center;">
+                                <h6>NEOPHYTES</h6>
+                                <a class="btn"  onclick = "off1()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div> 
+                         <div class="col-lg-4" id="id9" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/neopytes4.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>NEOPHYTES</h6>
+                                <a class="btn" href="img/neopytes4.jpg" data-lightbox="portfolio3">View photo</a>
+                                <a class="btn1" href="img/neopytes1.jpg" data-lightbox="portfolio3"></a>
+                                <a class="btn1" href="img/neopytes2.jpg" data-lightbox="portfolio3"></a>
+                                <a class="btn1" href="img/neopytes3.jpg" data-lightbox="portfolio3"></a>
+                                <a class="btn1" href="img/neopytes5.jpg" data-lightbox="portfolio3"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                 
+                 <div class="col-lg-4" id="id10">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/intreview_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id11" onclick = "on2()" style= "margin-right: 0px;" >MOCK INTREVIEW</a>
+                                <div id="id12"  style="display: none;" style= "position: center;">
+                                <h6>MOCK INTREVIEW</h6>
+                                <a class="btn"  onclick = "off2()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>     
+                    <div class="col-lg-4" id="id13" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/neopytes4.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>MOCK INTREVIEW</h6>
+                                <a class="btn" href="img/mock1.jpg" data-lightbox="portfolio4">View photo</a>
+                                <a class="btn1" href="img/mock2.jpg" data-lightbox="portfolio4"></a>
+                                <a class="btn1" href="img/mock3.jpg" data-lightbox="portfolio4"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4" id="id14">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/techwiz_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id15" onclick = "on3()" style= "margin-right: 0px;" >TECHWIZ</a>
+                                <div id="id16"  style="display: none;" style= "position: center;">
+                                <h6>TECHWIZ</h6>
+                                <a class="btn"  onclick = "off3()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div> 
+                    <div class="col-lg-4" id="id17" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/neopytes4.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>TECHWIZ</h6>
+                                <a class="btn" href="img/techwiz1.jpg" data-lightbox="portfolio5">View photo</a>
+                                <a class="btn1" href="img/techwiz2.jpg" data-lightbox="portfolio5"></a>
+                                <a class="btn1" href="img/techwiz3.jpg" data-lightbox="portfolio5"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id18">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/impulse_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id19" onclick = "on4()" style= "margin-right: 0px;" >IMPULSE</a>
+                                <div id="id20"  style="display: none;" style= "position: center;">
+                                <h6>IMPULSE</h6>
+                                <a class="btn"  onclick = "off4()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div> 
+                    <div class="col-lg-4" id="id21" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/neopytes4.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>IMPULSE</h6>
+                                <a class="btn" href="img/impulse1.jpg" data-lightbox="portfolio6">View photo</a>
+                                <a class="btn1" href="img/impulse2.jpg" data-lightbox="portfolio6"></a>
+                                <a class="btn1" href="img/impulse3.jpg" data-lightbox="portfolio6"></a>
+                                <a class="btn1" href="img/impulse4.jpg" data-lightbox="portfolio6"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                       <div class="col-lg-4" id="id22">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/hertz_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id23" onclick = "on5()" style= "margin-right: 0px;" >HERTZ</a>
+                                <div id="id24"  style="display: none;" style= "position: center;">
+                                <h6>HERTZ</h6>
+                                <a class="btn"  onclick = "off5()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id25" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/spectre_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>HERTZ-SPECTRE</h6>
+                                <a class="btn" href="img/spectre1.jpg" data-lightbox="portfolio7">View photo</a>
+                                <a class="btn1" href="img/spectre2.jpg" data-lightbox="portfolio7"></a>
+                                <a class="btn1" href="img/spectre3.jpg" data-lightbox="portfolio7"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id26" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/electrocuriex_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>HERTZ-ELECTROCURIEX</h6>
+                                <a class="btn" href="img/electrocuriex1.jpg" data-lightbox="portfolio8">View photo</a>
+                                <a class="btn1" href="img/electrocuriex2.jpg" data-lightbox="portfolio8"></a>
+                                <a class="btn1" href="img/electrocuriex3.jpg" data-lightbox="portfolio8"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id27" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/mindsweeper_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>HERTZ-MINDSWEEPER</h6>
+                                <a class="btn" href="img/mindsweeper1.jpg" data-lightbox="portfolio9">View photo</a>
+                                <a class="btn1" href="img/mindsweeper2.jpg" data-lightbox="portfolio9"></a>
+                                <a class="btn1" href="img/mindsweeper3.jpg" data-lightbox="portfolio9"></a>
+                                <a class="btn1" href="img/mindsweeper4.jpg" data-lightbox="portfolio9"></a>
+                                <a class="btn1" href="img/mindsweeper5.jpg" data-lightbox="portfolio9"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+
+
+                    <div class="col-lg-4" id="id28" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/fetch_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>HERTZ-FETCH! DECODE! EXECUTE!</h6>
+                                <a class="btn" href="img/fdc1.jpg" data-lightbox="portfolio10">View photo</a>
+                                <a class="btn1" href="img/fdc2.jpg" data-lightbox="portfolio10"></a>
+                                <a class="btn1" href="img/fdc3.jpg" data-lightbox="portfolio10"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id29">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/technoration_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id30" onclick = "on6()" style= "margin-right: 0px;" >TECHN'O'RATION</a>
+                                <div id="id31"  style="display: none;" style= "position: center;">
+                                <h6>TECHN'O'RATION</h6>
+                                <a class="btn"  onclick = "off6()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+
+                     <div class="col-lg-4" id="id32" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/technoration_p1.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>TECHN'O'RATION</h6>
+                                <a class="btn" href="img/techn'o'ration1.jpg" data-lightbox="portfolio11">View photo</a>
+                                <a class="btn1" href="img/techn'o'ration2.jpg" data-lightbox="portfolio11"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id33">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/conclave_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id34" onclick = "on7()" style= "margin-right: 0px;" >CONCLACE 2K21</a>
+                                <div id="id35"  style="display: none;" style= "position: center;">
+                                <h6>CONCLACE 2K21</h6>
+                                <a class="btn"  onclick = "off7()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id36" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/neopytes4.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>CONCLACE 2K21</h6>
+                                <a class="btn" href="img/conclave2k211.jpg" data-lightbox="portfolio12">View photo</a>
+                                <a class="btn1" href="img/conclave2k212.jpg" data-lightbox="portfolio12"></a>
+                                <a class="btn1" href="img/conclave2k213.jpg" data-lightbox="portfolio12"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                     <div class="col-lg-4" id="id37">
+                        <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <div class="inner">
+                                <img class ="card-img top" src="img/kriya_p.jpg" alt="Image">.
+                                </div>
+                                <div class="card-body text-center" style= "position: center;">
+                                <a class="btn" id="id38" onclick = "on8()" style= "margin-right: 0px;" >KRIYA</a>
+                                <div id="id39"  style="display: none;" style= "position: center;">
+                                <h6>KRIYA</h6>
+                                <a class="btn"  onclick = "off8()">BACK TO GALLERY</a>
+                                </div>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id40" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/codefeast_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>KRIYA-CODEFEAST</h6>
+                                <a class="btn" href="img/kriyacodefeast1.jpg" data-lightbox="portfolio13">View photo</a>
+                                <a class="btn1" href="img/kriyacodefeast2.jpg" data-lightbox="portfolio13"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                    <div class="col-lg-4" id="id41" style="display:none">
+                            <ul id="portfolio-filter">
+                            <div class = "card asd" style="width: 20rem;">
+                                <img class ="card-img top" src="img/workshop_p.jpg" alt="Image">
+                                <div class="card-body text-center">
+                                <h6>KRIYA-WORKSHOP</h6>
+                                <a class="btn" href="img/kriyaworkshop1.jpg" data-lightbox="portfolio14">View photo</a>
+                                <a class="btn1" href="img/kriyaworkshop2.jpg" data-lightbox="portfolio14"></a>
+                                <a class="btn1" href="img/kriyaworkshop3.jpg" data-lightbox="portfolio14"></a>
+                                </div> 
+                            </div>       
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                  
+        <script type="text/JavaScript">     
+            var b0=document.getElementById("id0");
+            var b1=document.getElementById("id1");
+            var b2=document.getElementById("id2");
+            var b3=document.getElementById("id3");
+            var b4=document.getElementById("id4");
+            var b5=document.getElementById("id5");  
+            var b6=document.getElementById("id6");
+            var b7=document.getElementById("id7");
+            var b8=document.getElementById("id8");
+            var b9=document.getElementById("id9");
+            var b10=document.getElementById("id10");
+            var b11=document.getElementById("id11");
+            var b12=document.getElementById("id12");
+            var b13=document.getElementById("id13");
+            var b14=document.getElementById("id14");
+            var b15=document.getElementById("id15");
+            var b16=document.getElementById("id16");        
+            var b17=document.getElementById("id17");
+            var b18=document.getElementById("id18");
+            var b19=document.getElementById("id19");
+            var b20=document.getElementById("id20");
+            var b21=document.getElementById("id21");
+            var b22=document.getElementById("id22");
+            var b23=document.getElementById("id23");
+            var b24=document.getElementById("id24");
+            var b25=document.getElementById("id25");
+            var b26=document.getElementById("id26");
+            var b27=document.getElementById("id27");
+            var b28=document.getElementById("id28");
+            var b29=document.getElementById("id29");
+            var b30=document.getElementById("id30");
+            var b31=document.getElementById("id31");
+            var b32=document.getElementById("id32");
+            var b33=document.getElementById("id33");
+            var b34=document.getElementById("id34");
+            var b35=document.getElementById("id35");
+            var b36=document.getElementById("id36");
+            var b37=document.getElementById("id37");
+            var b38=document.getElementById("id38");
+            var b39=document.getElementById("id39");
+            var b40=document.getElementById("id40");
+            var b41=document.getElementById("id41");
+            var b42=document.getElementById("id42");
+                
+            function on() {
+                    b0.style.display="none";
+                    b2.style.display="none";
+                    b3.style.display="block";
+                    b4.style.display="block";
+                    b5.style.display="block";
+                    b42.style.display="block";
+                    b6.style.display="none";
+                    b10.style.display="none";
+                    b14.style.display="none";
+                    b18.style.display="none";
+                    b22.style.display="none";
+                    b29.style.display="none";
+                    b33.style.display="none";
+                    b37.style.display="none";
+                }
+                
+
+                function off() {
+                    b0.style.display="block";
+                    b2.style.display="inline-block";
+                    b3.style.display="none";
+                    b4.style.display="none";
+                    b5.style.display="none";
+                    b42.style.display="none";
+                    b6.style.display="block";
+                    b10.style.display="block";
+                    b14.style.display="block";
+                    b18.style.display="block";
+                    b22.style.display="block";
+                    b29.style.display="block";
+                    b33.style.display="block";
+                    b37.style.display="block";
+                    
+                   
+                } 
+
+            function on1() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b7.style.display="none";
+                b8.style.display="block";
+                b9.style.display="block";
+                b10.style.display="none";
+                b14.style.display="none";
+                b18.style.display="none";
+                b22.style.display="none";
+                b29.style.display="none";
+                b33.style.display="none";
+                b37.style.display="none";
+               
+            }
+            function off1() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b7.style.display="inline-block";
+                b8.style.display="none";
+                b9.style.display="none";
+                b10.style.display="block";
+                b14.style.display="block";
+                b18.style.display="block";
+                b22.style.display="block";
+                b29.style.display="block";
+                b33.style.display="block";
+                b37.style.display="block";
+                
+            }
+             function on2() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b11.style.display="none";
+                b12.style.display="block";
+                b13.style.display="block"; 
+                b14.style.display="none";
+                b18.style.display="none";
+                b22.style.display="none";
+                b29.style.display="none";
+                b33.style.display="none";
+                b37.style.display="none";
+            }
+            function off2() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b11.style.display="inline-block";
+                b12.style.display="none";
+                b13.style.display="none"; 
+                b14.style.display="block";
+                b18.style.display="block";
+                b22.style.display="block";
+                b29.style.display="block";
+                b33.style.display="block";
+                b37.style.display="block";
+            }
+             function on3() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b15.style.display="none";
+                b16.style.display="block";
+                b17.style.display="block";
+                b18.style.display="none";
+                b22.style.display="none";
+                b29.style.display="none";
+                b33.style.display="none";
+                b37.style.display="none";
+   
+            }
+            function off3() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b15.style.display="inline-block";
+                b16.style.display="none";
+                b17.style.display="none";
+                b18.style.display="block";
+                b22.style.display="block";
+                b29.style.display="block";
+                b33.style.display="block";
+                b37.style.display="block";
+                
+            }
+             function on4() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b14.style.display="none";
+                b19.style.display="none";
+                b20.style.display="block";
+                b21.style.display="block";
+                b22.style.display="none";
+                b29.style.display="none";
+                b33.style.display="none";
+                b37.style.display="none";
+               
+            }
+            function off4() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b14.style.display="block";
+                b19.style.display="inline-block";
+                b20.style.display="none";
+                b21.style.display="none";
+                b22.style.display="block";
+                b29.style.display="block";
+                b33.style.display="block";
+                b37.style.display="block";
+                
+            }
+             function on5() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b14.style.display="none";
+                b18.style.display="none";
+                b23.style.display="none";
+                b24.style.display="block";
+                b25.style.display="block";
+                b26.style.display="block";
+                b27.style.display="block";
+                b28.style.display="block";
+                b29.style.display="none";
+                b33.style.display="none";
+                b37.style.display="none";
+
+                
+               
+            }
+            function off5() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b14.style.display="block";
+                b18.style.display="block";
+                b23.style.display="inline-block";
+                b24.style.display="none";
+                b25.style.display="none";
+                b26.style.display="none";
+                b27.style.display="none";
+                b28.style.display="none";
+                b29.style.display="block";
+                b33.style.display="block";
+                b37.style.display="block";
+                
+            }
+             function on6() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b14.style.display="none";
+                b18.style.display="none";
+                b22.style.display="none";
+                b30.style.display="none";
+                b31.style.display="block";
+                b32.style.display="block";
+                b33.style.display="none";
+                b37.style.display="none";
+                
+                
+                
+               
+            }
+            function off6() {
+                
+                 b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b14.style.display="block";
+                b18.style.display="block";
+                b22.style.display="block";
+                b30.style.display="inline-block";
+                b31.style.display="none";
+                b32.style.display="none";
+                b33.style.display="block";
+                b37.style.display="block";
+                
+            }
+             function on7() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b14.style.display="none";
+                b18.style.display="none";
+                b22.style.display="none";
+                b29.style.display="none";
+                b34.style.display="none";
+                b35.style.display="block";
+                b36.style.display="block";
+                b37.style.display="none";
+
+               
+            }
+            function off7() {
+                
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b14.style.display="block";
+                b18.style.display="block";
+                b22.style.display="block";
+                b29.style.display="block";
+                b34.style.display="inline-block";
+                b35.style.display="none";
+                b36.style.display="none";
+                b37.style.display="block";
+
+                
+            }
+             function on8() {
+                b0.style.display="none";
+                b1.style.display="none";
+                b6.style.display="none";
+                b10.style.display="none";
+                b14.style.display="none";
+                b18.style.display="none";
+                b22.style.display="none";
+                b29.style.display="none";
+                b33.style.display="none";
+                b38.style.display="none";
+                b39.style.display="block";
+                b40.style.display="block";
+                b41.style.display="block";
+               
+            }
+            function off8() {
+                b0.style.display="block";
+                b1.style.display="block";
+                b6.style.display="block";
+                b10.style.display="block";
+                b14.style.display="block";
+                b18.style.display="block";
+                b22.style.display="block";
+                b29.style.display="block";
+                b33.style.display="block";
+                b38.style.display="inline-block";
+                b39.style.display="none";
+                b40.style.display="none";
+                b41.style.display="none";
+            }
+            
+        </script>   
+
+ <?php include 'footer.php';?> 

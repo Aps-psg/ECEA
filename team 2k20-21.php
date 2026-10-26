@@ -1,0 +1,770 @@
+<?php include 'nav.php';?> 
+<center>
+ <div class="col-lg-12" style="height:20px;"></div>
+    <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+        <h3>Final Years (Batch of 2017-2021)</h3>
+    </div>
+  <div class="section_our_solution">  
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+            <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Nitin Krishna.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px ;">
+              <h3>NITIN KRISHNA V</h3>
+            </div>
+            <div class="solu_description">
+              <p>Secretary</p>
+              <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:nitinkrishna.cbe@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/nitin-krishna-621314189" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>  
+          </div>
+          </div>
+      </div>
+  </div>
+  <div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box" >
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Ramya.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>RAMYA S</h3>
+            </div>
+            <div class="solu_description">
+              <p>Co-Secretary</p>
+              <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:17l140@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/ramya-sukumaran-a19a74182" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Elatchiya.jpg" width="200px"> 
+                </div>
+                <div class="solu_title">
+                  <h3>ELATCHIYA R V</h3>
+                </div>
+                <div class="solu_description">
+                  <p>Co-Secretary</p>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:17l214@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/elatchiya-raja-vijaya-a15762191" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Abillash.jpg" width="200px">    
+            </div>
+            <div class="solu_title"style="padding-top: 10px; padding-bottom: 14px">
+              <h3>ABILASH K</h3>
+            </div>
+            <div class="solu_description">
+              <h4>Senior Executive Member</h4>
+              <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:17l102@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/abillash-koushik/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/ArunKumar.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>ARUN KUMAR M</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:arun16403175@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/arun-kumar-613a7b16a" target="_blank">
+                <i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Meenu Chithra.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>MEENU CHITHRA M</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l501@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/meenu-chithra-479209193" target="_blank">
+                <i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>  
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="section_our_solution">
+  <div class="row  team ">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Roshan.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>ROSHAN R</h3>
+            </div>
+            <div class="solu_description">
+              <h4>Senior Execuitve Member</h4>
+              <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:17l142@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="http://linkedin.com/in/roshan-r-a838911b2" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Sanjeevi.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>SANJEEVI S</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:17l144@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/sanjeevi-suresh-b157a9179/" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div> 
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Kaviya.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>KAVIYA S</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l136@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/kaviya-s-a3448a1aa" target="_blank">
+                <i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div> 
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Pooja.png" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>POOJA M</h3>
+            </div>
+            <div class="solu_description">
+              <h4>Senior Execuitve Member</h4>
+              <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:poojpush@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+            </div>
+          </div>
+          
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Samuel Priyadarshan.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>SAMUEL S</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:17l241@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>       
+          </div>  
+        </div> 
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Swathi.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>SWATHI S</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:swathisankar012@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/swathi-sankar-6aa59718b" target="_blank">
+                <i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div> 
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <!-- <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Roshan.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>ROSHAN R</h3>
+            </div>
+            <div class="solu_description">
+              <h4>Senior Execuitve Member</h4>
+              <h2>IV Year ECE G1</h2>
+              <a class="btn2" href="mailto:17l142@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="http://linkedin.com/in/roshan-r-a838911b2" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div> -->
+          
+        <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Udbhav Sampath.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>UDBHAV SAMPATH</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:17l253@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://in.linkedin.com/in/udbhav-sampath-979383191" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div> 
+        <!-- <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Kaviya.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>KAVIYA S</h3>
+                </div>
+                <div class="solu_description">
+                  <h4>Senior Executive Member</h4>
+                  <h2>IV Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l136@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/kaviya-s-a3448a1aa" target="_blank">
+                <i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div> --> 
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+ <div class="col-lg-12" style="height:40px;"></div>
+                
+      <center><h3>Pre - Final Years (Batch of 2018-2022)</h3></center>
+
+</div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box"  >
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Nihilesh.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>NIHILESH K B</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Joint-Secretary</p>
+              <h2>III Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l129@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/nihilesh-kb" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card" >
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Shahitya.jpg" width="200px"> 
+                </div>
+                <div class="solu_title">
+                  <h3>SHAHITYA G M</h3><br>
+                </div>
+                <div class="solu_description">
+                  <p>Joint-Secretary</p>
+                  <h2>III Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l247@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/shahitya-g-m-ba73781b3" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Karthikka.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>KARTHIKKA A S</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Treasurer</p>
+              <h2>III Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l121@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/karthikka-siva-b812391a0" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Shruthi Chandrakumar.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>SHRUTHI CHANDRAKUMAR</h3>
+            </div>
+            <div class="solu_description">
+              <p>Incharge-Design</p>
+              <h2>III Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l149@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/shruthi-chandrakumar-3517781b0" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Raj Kishore.jpg" width="200px"> 
+                </div>
+                <div class="solu_title">
+                  <h3>RAJ KISHORE M</h3><br>
+                </div>
+                <div class="solu_description">
+                  <p>Incharge-Design</p>
+                  <h2>III Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l235@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/raj-kishore-chezian-1549a4192" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>  
+          
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Pranith.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>PRANITH KUMAR P</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Incharge-Logistics</p>
+              <h2>III Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l136@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/pranith-kumar-p-a2a3781b3" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Sai Krithik.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>SAI KRITHIK MULAGALETI</h3>
+            </div>
+            <div class="solu_description">
+              <p>Incharge-Logistics</p>
+              <h2>III Year ECE G1</h2>
+              <a class="btn2" href="mailto:18l143@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/sai-krithik-mulagaleti-38177b17b/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Karishma Sabarigiri.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>KARISHMA SABARIGIRI</h3>
+            </div>
+            <div class="solu_description">
+              <p>Incharge-Literary</p>
+              <h2>III Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l220@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/karishma-sabarigiri-130444141" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>  
+          
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box"  >
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Rakesh.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>RAAKESH R</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Incharge-Literary</p>
+              <h2>III Year ECE G2</h2>
+              <a class="btn2" href="mailto:18l233@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/raakesh-ramesh-804278190/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Nikhil Shanmugam.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" > 
+                  <h3>NIKHIL SHANMUGAM</h3>
+                </div>
+                <div class="solu_description">
+                  <p>Executive Member</p>
+                  <h2>III Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l433@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/nikhil-shanmugam-a-37b3791a4" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+<div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
+ <div class="col-lg-12" style="height:40px;"></div>               
+      <center><h3>Second Years (Batch of 2019-2023)</h3></center>
+</div>
+
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Adhithya.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>ADHITHYA S</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l203@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/adhithya-sekhar-8709a9192" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Akaash.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>AKAASH K L</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l102@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/akaash-kl-32149b19b" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Amudha vardhini.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>AMUDHA VARDHINI C M</h3>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l103@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/amudha-vardhni-c-m-2375a8202" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>  
+          
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Aparna.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>APARNA G</h3>                </div>
+                <div class="solu_description">
+                  <p>Executive Member</p>
+                  <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l212@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/aparna-gopalakrishnan-22b3601ba" target="_blank" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>  
+        
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Aries.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>ARIES R</h3>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l206@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/aries-r-a31801193" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Bharath.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>BHARATH R</h3>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l107@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/bharath-raja-188a69182" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+        
+      
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+            <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Ghowshik.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>GHOWSHIK Y</h3>
+                </div>
+                <div class="solu_description">
+                  <p>Execuitve Member</p>
+                  <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l150@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="http://linkedin.com/in/ghowshik-yeshwanth-0b0b7512b" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>
+        <div class="solution_card">
+                <div class="hover_color_bubble"></div>      
+                <div class="so_top_icon">
+                  <img src="img/Indu.jpg" width="200px"> 
+                </div>
+                <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+                  <h3>INDU M</h3>  
+                </div>
+                <div class="solu_description">
+                  <p>Executive Member</p>
+                  <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l217@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/indu-m-5b7b4b1b9" target="_blank"><i class="fab fa-linkedin-in"></i></a>                
+          </div>  
+        </div>  
+        
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Megalingam.jpg" width="200px">    
+            </div>
+            <div class="solu_title" style="padding-top: 10px; padding-bottom: 14px">
+              <h3>MEGALINGAM R</h3>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l223@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/megalingam-r-1b7b031b6" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-11 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box">
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Roshith Babu.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>ROSHITH BABU</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l127@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/roshith-babu-5290b11b7" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Sanjana.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>SANJANA S</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l242@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/sanjana-shanmuga-sundaram-9872b61b4" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        <div class="solution_card">
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Swetha Dharshini.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>SWETHA DHARSHINI</h3>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G2</h2>
+              <a class="btn2" href="mailto:19l260@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/swetha-dharshinim-5057a11b8" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>  
+          
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<div class="section_our_solution">
+  <div class="row  team">  
+    <div class="col-lg-12 col-md-12 ">
+      <div class="our_solution_category">
+        <div class="solution_cards_box"  >
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Vaishnavee.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>VAISHNAVEE K R</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l146@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/vaishnavee-k-r-6872601b7" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+          <div class="solution_card" >
+            <div class="hover_color_bubble"></div>
+            <div class="so_top_icon">
+              <img src="img/Vidhya.jpg" width="200px">    
+            </div>
+            <div class="solu_title">
+              <h3>VIDHYA V</h3><br>
+            </div>
+            <div class="solu_description">
+              <p>Executive Member</p>
+              <h2>II Year ECE G1</h2>
+              <a class="btn2" href="mailto:19l148@psgtech.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+              <a class="btn3" href="https://www.linkedin.com/in/vidhya-venkatesh-8bbb031b9" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</center>
+
+        
+<?php include 'footer.php';?> 
