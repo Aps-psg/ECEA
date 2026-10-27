@@ -46,7 +46,7 @@
                     <div class="navbar-nav ml-auto">
                         <a href="index.php" class="nav-item nav-link">Home</a>
                         <a href="registration.php" class="nav-item nav-link">Registration</a>
-                        <a href="team23.php" class="nav-item nav-link">Team</a>
+                        <a href="team 26-27.php" class="nav-item nav-link">Team</a>
                         <a href="events.php" class="nav-item nav-link">Events</a>
                         <a href="gallery.php" class="nav-item nav-link" >Gallery</a>
                         <a href="yearbook.php" class="nav-item nav-link" >Year Book</a>
