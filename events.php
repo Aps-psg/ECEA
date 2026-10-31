@@ -76,6 +76,20 @@
                         </div></a>
                     </div>
 
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <a href = "events_2K25-26.html"><div class="service-item">
+                            <div class="service-icon">
+                                <img src="img/Events.png" width="80px" alt="Image">
+                            </div>
+                            <div class="service-text">
+                                <h3>2K25-26</h3>
+                                <p style = "text-align: justify">
+                                    View the events of the Academic Year 2K25-26
+                                </p>
+                            </div>
+                        </div></a>
+                    </div>
+
                     </div>
                 </div>
             </div>
