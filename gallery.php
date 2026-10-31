@@ -76,6 +76,20 @@
                         </div></a>
                     </div>
 
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <a href = "gallery_2K25-26.html"><div class="service-item">
+                            <div class="service-icon">
+                                <img src="img/Gallery.png" width="100px" alt="Image">
+                            </div>
+                            <div class="service-text">
+                                <h3>2K24-25 / 2K25-26</h3>
+                                <p style = "text-align: justify">
+                                    View the images of the Academic Year 2K25-26 
+                                </p>
+                            </div>
+                        </div></a>
+                    </div>
+
 
 
                 </div>
